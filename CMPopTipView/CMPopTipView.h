@@ -130,7 +130,7 @@ typedef NS_ENUM(NSInteger, CMPopTipAnimation) {
 @property (nonatomic, assign)           BOOL                    hasGradientBackground;
 @property (nonatomic, assign)           CGFloat                 sidePadding;
 @property (nonatomic, assign)           CGFloat                 topMargin;
-@property (nonatomic, assign)           CGFloat                 pointerSize;
+@property (nonatomic, assign)           CGSize                  pointerSize;
 @property (nonatomic, assign)           CGFloat                 bubblePaddingX;
 @property (nonatomic, assign)           CGFloat                 bubblePaddingY;
 
